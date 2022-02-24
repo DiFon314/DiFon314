@@ -20,3 +20,4 @@
 
   
    <!--<img align="right" alt="cat-gif" src="https://media.discordapp.net/attachments/371405794891268098/946259720090550312/RainbowCatSpin.gif">-->
+![Snake animation](https://github.com/DiFon314/DiFon314/blob/output/github-contribution-grid-snake.svg)
