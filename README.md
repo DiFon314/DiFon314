@@ -1,7 +1,7 @@
 ### Olá, eu sou o Diogo 👋
 
 - 🔭 Atualmente trabalhando em projetos de extensão.
-- 🌱 Estudando HTML, CSS, LaTeX e fazendo faculdade de engenharia elétrica.
+- 🌱 Estudando HTML, CSS, JavaScript, LaTeX e fazendo faculdade de engenharia elétrica.
 - 📫 Contate-me no email: Diogo.coucello@gmail.com
 
 <div>
