@@ -1,6 +1,6 @@
 ### Olá, eu sou o Diogo 👋
 
-- 🔭 Atualmente trabalhando em projetos de extensão.
+- 🔭 Atualmente trabalhando em projeto de extensão "Conhecendo sua conta de luz" e projeto de pesquisa "Teoria qualitativa das Equações diferencias ordinárias".
 - 🌱 Estudando HTML, CSS, JavaScript, LaTeX e fazendo faculdade de engenharia elétrica.
 - 📫 Contate-me no email: Diogo.coucello@gmail.com
 
